@@ -987,8 +987,8 @@ section.special, article.special {
 header .profile-div {
   display: flex; }
   header .profile-div img {
-    width: 45%;
-    height: 350px;
+    width: 600px;
+    height: 400px;
     border-radius: 3px;
     margin-bottom: 50px; }
   header .profile-div p {
@@ -998,7 +998,8 @@ header .profile-div {
   header .profile-div {
     display: block; }
     header .profile-div img {
-      width: 100%;
+      width: 350px;
+      height: 233px;
       border-radius: 3px;
       margin-bottom: 50px; }
     header .profile-div p {
