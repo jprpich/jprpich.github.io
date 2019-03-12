@@ -131,11 +131,23 @@
 				> .image:before {
 					background-color: _palette(accent1);
 				}
+				.content {
+					margin-top: 30px;
+				}
+				.image {
+					height: 300px;
+				}
 			}
 
 			&.style2 {
 				> .image:before {
 					background-color: _palette(accent2);
+				}
+				.content {
+					margin-top: 30px;
+				}
+				.image {
+					height: 300px;
 				}
 			}
 

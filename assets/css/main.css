@@ -1657,13 +1657,22 @@ button,
         max-height: 0;
         line-height: 1.5;
         margin-top: 0.35em;
-        opacity: 0; }
+        opacity: 0;
+        margin-top: 30px; }
         .tiles article > a .content > :last-child {
           margin-bottom: 0; }
     .tiles article.style1 > .image:before {
       background-color: #f2849e; }
+    .tiles article.style1 .content {
+      margin-top: 30px; }
+    .tiles article.style1 .image {
+      height: 300px; }
     .tiles article.style2 > .image:before {
       background-color: #7ecaf6; }
+    .tiles article.style2 .content {
+      margin-top: 30px; }
+    .tiles article.style2 .image {
+      height: 300px; }
     .tiles article.style3 > .image:before {
       background-color: #7bd0c1; }
     .tiles article.style4 > .image:before {
