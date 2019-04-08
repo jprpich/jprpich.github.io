@@ -2074,6 +2074,8 @@ body.is-menu-visible #menu {
         line-height: inherit; }
         #footer > .inner .copyright li:first-child {
           margin-top: 0; } }
+  #footer .contact-phone {
+    margin-left: 60px; }
 
 /* Wrapper */
 #wrapper > * > .inner {
